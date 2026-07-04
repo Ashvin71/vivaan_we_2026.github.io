@@ -40,15 +40,6 @@ script.js
 README.md
 images/
 ```
-
-## GitHub Pages Setup
-
-1. Upload all files to the main/root area of the GitHub repository.
-2. Open the repository settings.
-3. Go to Pages.
-4. Set the source to the main branch and root folder.
-5. Save and wait for GitHub Pages to publish the site.
-
 ## Contact
 
 Vivaan Web Media  
